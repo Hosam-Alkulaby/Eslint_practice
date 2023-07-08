@@ -1,6 +1,6 @@
-let thisshowmessage = false;
+let goodmessage = "i love eslint";
 
-const goodmessage = "i love eslint";
+let i;
 
 function showmessage() {
   for (i = 0; i < 7; i++) {
